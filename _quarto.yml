@@ -22,6 +22,7 @@ book:
     - potential_funders.qmd
     - neurodiversity_and_neurodivergence.qmd
 
+bibliography: aagu.json
 
 format:
   html:
