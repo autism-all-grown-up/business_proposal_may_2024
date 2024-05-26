@@ -117,7 +117,7 @@ Report to umbrella and funders.
 ## **Seed**
 
 | **Res ponsibility**      | **FTE**  | **Description**                                                                                                                                                                                       |
-|:------------|:------------|:---------------------------------------------|
+|:-------------------------|:---------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Organizing and Directing | 0.75     | Implement business systems--payrol, formal job descriptions, insurance, etc. Hold regular meetings with select partner organizations and individuals. Solicit and apply for funding for Sprout phase. |
 | Coworking space manager  | 0.25     | Research how coworking spaces run. Create a budget and game plan for initial set-up. Begin planning marketing and promotion.                                                                          |
 | Research support         | 0.25     | Collect and organize information. Writing.                                                                                                                                                            |
@@ -129,7 +129,7 @@ Report to umbrella and funders.
 ## **Sprout**
 
 | **R esponsibility**      | **FTE**  | **Description**                                                                                                                                                                                                  |
-|:------------|:------------|:---------------------------------------------|
+|:-------------------------|:---------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Organizing and Directing | 0.75     | Complete current information product projects. Investigate access gaps. Locate resources. Continue building relationships. Oversee and participate in research on community resources and funding opportunities. |
 | Data engineering         | 0.50     | Create databases. Research portal design.                                                                                                                                                                        |
 | Coworking space manager  | 0.50     | Research how coworking spaces run. Solicit community feedback. Run trails.                                                                                                                                       |
@@ -142,7 +142,7 @@ Report to umbrella and funders.
 ### **Staffing**
 
 | **Res ponsibility**       | **FTE**  | **Description**                                                                                                                                                                       |
-|:------------|:------------|:---------------------------------------------|
+|:--------------------------|:---------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Organizing and Directing  | 1.00     | Seek out partners and funding opportunities. Work with stakeholders to define contract requirements. Direct grant writing. Meet regularly with partner organizations and individuals. |
 | Data engineering          | 0.30     | Maintain databases and portal. Assist with analysis and reporting.                                                                                                                    |
 | Jr. Data management       | 0.20     | Collect data. Enter data. Basic reporting.                                                                                                                                            |
