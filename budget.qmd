@@ -11,7 +11,7 @@ We have created our budget estimate based on the minimum staffing we believe can
 ### Staffing
 
 | **Res ponsibility**      | **FTE**  | **Description**                                                                                                                                                                                       |
-|:------------|:------------|:---------------------------------------------|
+|:-------------------------|:---------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Organizing and Directing | 0.75     | Implement business systems--payrol, formal job descriptions, insurance, etc. Hold regular meetings with select partner organizations and individuals. Solicit and apply for funding for Sprout phase. |
 | Coworking space manager  | 0.25     | Research how coworking spaces run. Create a budget and game plan for initial set-up. Begin planning marketing and promotion.                                                                          |
 | Research support         | 0.25     | Collect and organize information. Writing.                                                                                                                                                            |
@@ -21,7 +21,7 @@ We have created our budget estimate based on the minimum staffing we believe can
 ### Budget
 
 | **Respo nsibility**      | **FTE** | **Rate** | **Weekly Total** | **Overhead (10%)** |
-|:--------------|:--------------|:--------------|---------------|:--------------|
+|:-------------------------|:--------|:---------|------------------|:-------------------|
 | Organizing and Directing | 0.75    | \$40.00  | \$1,200.00       | \$120.00           |
 | Coworking space manager  | 0.25    | \$30.00  | \$300.00         | \$30.00            |
 | Research support         | 0.25    | \$30.00  | \$300.00         | \$30.00            |
@@ -38,7 +38,7 @@ We have created our budget estimate based on the minimum staffing we believe can
 ### **Staffing**
 
 | **R esponsibility**      | **FTE**  | **Description**                                                                                                                                                                                                  |
-|:------------|:------------|:---------------------------------------------|
+|:-------------------------|:---------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Organizing and Directing | 0.75     | Complete current information product projects. Investigate access gaps. Locate resources. Continue building relationships. Oversee and participate in research on community resources and funding opportunities. |
 | Data engineering         | 0.50     | Create databases. Research portal design.                                                                                                                                                                        |
 | Coworking space manager  | 0.50     | Research how coworking spaces run. Solicit community feedback. Run trails.                                                                                                                                       |
@@ -49,7 +49,7 @@ We have created our budget estimate based on the minimum staffing we believe can
 ### **Budget**
 
 | **Respo nsibility**      | **FTE** | **Rate** | **Weekly Total** | **Overhead (10%)** |
-|:--------------|:--------------|:--------------|:--------------|:--------------|
+|:-------------------------|:--------|:---------|:-----------------|:-------------------|
 | Organizing and Directing | 0.75    | \$50.00  | \$1,500.00       | \$150.00           |
 | Data engineering         | 0.50    | \$45.00  | \$900.00         | \$90.00            |
 | Coworking space manager  | 0.50    | \$30.00  | \$600.00         | \$60.00            |
@@ -66,7 +66,7 @@ We have created our budget estimate based on the minimum staffing we believe can
 ### **Staffing**
 
 | **Res ponsibility**       | **FTE**  | **Description**                                                                                                                                                                       |
-|:------------|:------------|:---------------------------------------------|
+|:--------------------------|:---------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Organizing and Directing  | 1.00     | Seek out partners and funding opportunities. Work with stakeholders to define contract requirements. Direct grant writing. Meet regularly with partner organizations and individuals. |
 | Data engineering          | 0.30     | Maintain databases and portal. Assist with analysis and reporting.                                                                                                                    |
 | Jr. Data management       | 0.20     | Collect data. Enter data. Basic reporting.                                                                                                                                            |
@@ -80,7 +80,7 @@ We have created our budget estimate based on the minimum staffing we believe can
 ### **Budget**
 
 | **Respo nsibility**       | **FTE** | **Rate** | **Weekly Total**  | **Overhead (10%)** |
-|:--------------|:--------------|:--------------|:--------------|:--------------|
+|:--------------------------|:--------|:---------|:------------------|:-------------------|
 | Organizing and Directing  | 0.75    | \$65.00  | \$1,950.00        | \$195.00           |
 | Data engineering          | 0.30    | \$45.00  | \$540.00          | \$54.00            |
 | Jr. Data management       | 0.20    | \$30.00  | \$240.00          | \$24.00            |

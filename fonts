@@ -1,0 +1,4 @@
+    mainfont: "Times New Roman"
+    sansfont: "Arial"
+    monofont: "Courier New"
+    mathfont: "TeX Gyre Termes Math"
