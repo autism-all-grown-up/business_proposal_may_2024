@@ -1,9 +1,12 @@
-# Preface {.unnumbered}
-
-This is a Quarto book.
-
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
-
-```{r}
-1 + 1
-```
+https://davidgohel.github.io/flextable/
+https://github.com/dmurdoch/tables
+https://dmurdoch.github.io/tables/reference/index.html
+https://github.com/hughjonesd/huxtable
+https://hughjonesd.github.io/huxtable/huxtable.html
+https://davidgohel.github.io/flextable/
+https://github.com/davidgohel/flextable/
+https://cran.r-project.org/web/packages/pixiedust/vignettes/pixiedust.html
+https://github.com/nutterb/pixiedust
+https://www.pipinghotdata.com/posts/2022-01-24-report-ready-pdf-tables-with-rmarkdown-knitr-kableextra-and-latex/
+https://www.danieldsjoberg.com/gtsummary/index.html
+https://gt.rstudio.com/reference/index.html
