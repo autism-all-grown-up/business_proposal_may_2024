@@ -1,1 +1,9 @@
-https://davidgohel.github.io/flextable/ https://github.com/dmurdoch/tables https://dmurdoch.github.io/tables/reference/index.html https://github.com/hughjonesd/huxtable https://hughjonesd.github.io/huxtable/huxtable.html https://davidgohel.github.io/flextable/ https://github.com/davidgohel/flextable/ https://cran.r-project.org/web/packages/pixiedust/vignettes/pixiedust.html https://github.com/nutterb/pixiedust https://www.pipinghotdata.com/posts/2022-01-24-report-ready-pdf-tables-with-rmarkdown-knitr-kableextra-and-latex/ https://www.danieldsjoberg.com/gtsummary/index.html https://gt.rstudio.com/reference/index.html
+# Autism All Grown Up {#main-title}
+
+## The Autism Nexus of Oregon {#subtitle}
+
+# Mission {#mission}
+
+> *The mission of Autism All Grown Up (AAGU) is to empower autistic adults in Oregon by serving as a nexus that provides accessible information, resources, and services tailored to their unique needs. By bridging gaps in the existing infrastructure, we connect and interconnect the adult autistic community and their supporters, facilitate information exchange, and promote collaboration. This ensures that autistic individuals can access the support and opportunities they need to thrive, enhancing their well-being and independence throughout the State of Oregon.*
+
+![](./media/image4.png){width="3.0989588801399823in" height="3.0592279090113736in"}

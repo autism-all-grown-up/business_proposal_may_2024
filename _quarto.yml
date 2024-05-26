@@ -2,13 +2,10 @@ project:
   type: book
 
 book:
-  title: "quarto_version"
-  author: "Norah Jones"
-  date: "`r format(Sys.time(), '%d %B, %Y')`"
+  title: "Autism All Grown Up"
+  author: "Ariel Balter"
   chapters:
     - index.qmd
-    - front_page.qmd
-    - mission.qmd
     - executive_summary.qmd
     - autism_2024.qmd
     - the_lost_generations.qmd
@@ -25,7 +22,7 @@ book:
 
 format:
   html:
-    theme: cosmo
+    theme: litera
     output-dir: docs
   pdf:
     documentclass: scrreprt
