@@ -2,8 +2,8 @@ project:
   type: book
 
 book:
-  title: "AAGU Proposal--May 2024"
-  author: "Ariel Balter"
+  title: "quarto_version"
+  author: "Norah Jones"
   date: "`r format(Sys.time(), '%d %B, %Y')`"
   chapters:
     - index.qmd
@@ -16,12 +16,14 @@ book:
     - autism_all_grown_up.qmd
     - funding.qmd
     - budget.qmd
+    - references.qmd
   appendices:
     - glossary.qmd
     - representitive_salaries.qmd
     - potential_funders.qmd
     - neurodiversity_and_neurodivergence.qmd
 
+bibliography: references.bib
 
 format:
   html:
@@ -31,5 +33,3 @@ format:
     documentclass: scrreprt
 
 editor: visual
-
-
