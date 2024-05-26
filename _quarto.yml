@@ -1,0 +1,36 @@
+project:
+  type: book
+
+book:
+  title: "quarto_version"
+  author: "Norah Jones"
+  date: "`r format(Sys.time(), '%d %B, %Y')`"
+  chapters:
+    - index.qmd
+    - front_page.qmd
+    - mission.qmd
+    - executive_summary.qmd
+    - autism_2024.qmd
+    - the_lost_generations.qmd
+    - oregon.qmd
+    - autism_all_grown_up.qmd
+    - funding.qmd
+    - budget.qmd
+    - references.qmd
+  appendices:
+    - glossary.qmd
+    - representitive_salaries.qmd
+    - potential_funders.qmd
+    - neurodiversity_and_neurodivergence.qmd
+
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+

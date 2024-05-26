@@ -1,0 +1,156 @@
+# Autism All Grown Up (AAGU) {#aagu}
+
+## Formation
+
+Dr. Ariel Balter, a late diagnosed autistic scientist, conceived of the *autism nexus* idea when he started performing root cause analysis (RCA) to help members of his new community of local autistic adults. He heard about obstacles to getting evaluations in Oregon and a mixture of opinions regarding why. Determined to provide definitive answers, he found himself working with HealthShare Oregon to create new materials on behalf of OHP specifically designed to give members of the adult community a definitive and complete flowchart of options and contacts. Meetings with administrators from Vocational Rehab allowed him to create a similar prescriptive path that would meet their legal requirements for providing evaluations.
+
+On hearing informal discussions of starting occasional co-working meetups at libraries, Dr. Balter found that the community would strongly favor dedicated, autism-friendly coworking spaces. So he explored the minimum requirements to make that happen and found some available options.
+
+In order to find if solutions for some of these problems already exist in the community, Dr. Balter searched for and contacted many local organizations that work with autistic adults -- Oregon I/DD, The Autism Society of Oregon (ASO), Autism Community Activity Program (ACAP), Autism Research and Resources of Oregon (ARRO), The Arc of Oregon, We've Network, Smart Living, Learning, & Earning with Autism (SSLEA) -- and was surprised by how little communication, coordination, and mutual awareness existed between them. Dr. Balter began floating ideas for how to foster these connections.
+
+Most of the organizations that serve the autistic community, both adults and children, create pages on their websites where they list local resources, suggest other organizations, link to useful sources of information, try to answer basic questions and that sort of thing. Providing this information is never the main focus of the organization. Keeping information about autism up-to-date is a job in and of itself. Also, most of these websites are written *for* or *about* autistic people rather than by them. The information on these pages degrades much faster than it can be practically updated without a dedicated mission to do so.
+
+Some of Dr. Balter's favorite things to do are performing information work, getting to the bottom of difficult problems, and making fortuitous connections between people. Forming an organization that could become the go-to source of information both for and about the adult autistic community seemed like a logical step, and the *autism nexus* concept was born. By working from within the autistic community, we will build connections between autistic adults, between organizations, and between individuals and organizations. Contrary to outdated misconceptions, autistic people enjoy social connections with and communicate well with people who share their neurology. The talent pool of immensely skilled and capable but underemployed or unemployed autistic adults in Oregon will form the engine that drives our work.
+
+[Team]{.mark}
+
+## What We Have Started {#what-we-have-started}
+
+These are projects Dr. Balter has started working on but set aside to work on creating AAGU. They are the first things that will be finished when we have enough funding to support a small staff for a couple of months.
+
+### The Uncommons
+
+Two organizations have offered us temporary use of high-quality common space for coworking and meetings. The spaces include internet, printers, computers, meeting areas, lounge areas, and kitchen facilities. This will be the start of The Uncommons.
+
+### Access to Assessments
+
+Finding a provider to do an autism or ADHD evaluation can be hard, even with private insurance. For those on Medicaid, it can be literally impossible. We have been partnering with Health Share Oregon to create two guides. One, for Medicaid members, explains the Community Care Organization (CCO) system and outlines the processes and requirements of different health plans. Another, for Medicaid doctors, explains why it is important for adults to get evaluations and provides information on writing a successful referral.
+
+### Alternate Routes for Assessments
+
+Because some networks are entirely lacking providers at this time, we have communicated with I/DD and Vocational Rehab (VR) and created materials to facilitate accessing evaluations through those programs. We have created a template Letter of Medical Necessity based on the requirements these programs use to determine if they will directly pay for a client's evaluation and the laws about Medicaid/Medicare coverage. This template reduces the burden on providers less familiar with autism in adults, making it easier for them to provide the necessary documentation. A client can have a licensed medical or behavioral practitioner fill out this letter and then present it to I/DD or VR.
+
+### Outreach Consulting and Development
+
+We have begun working with the Autism Society of Oregon to help them refine and improve their online resources, which could turn into a consulting contract.
+
+### Data Analysis
+
+After discussing the general issues we have described above with the director of the Oregon Commission on Autism Spectrum Disorder (OCASD), Dr. Balter has been invited to represent AAGU in their data working group.
+
+### Adult Autism Services Conference
+
+To jump-start collaboration and communication between organizations that work with autistic adults, the AAGU has proposed hosting a state-wide conference at which organizations that work with autistic adults can introduce themselves and learn about each other. So far, a number of organizations have expressed a desire to participate.
+
+## Ongoing Activities
+
+The day-to-day operations at AAGU will evolve and adapt as we form and grow. The following are things we will always be working on to one extent or another, with effort rebalanced based on need and funding:
+
+### Community
+
+-   Staff and manage *The Uncommons*.
+
+-   Build relationships with entities, organizations, businesses, and service providers that work with or for adult autistic people through regular meetings or check-ins. Exchange non-private information that will help us better understand the community.
+
+-   Learn about unmet needs in the adult autistic community:
+
+    -   Maintain an active presence.
+
+    -   Staff chat helpline for general questions that aren't answered on the website.
+
+    -   Conduct informal surveys to "feel out" the community.
+
+    -   Listen to ideas from the community and from organizations and help connect them to the support they need.
+
+-   Report on unmet needs in the community and use Root Cause Analysis to determine if unmet needs result from a lack of existing services, stigma or bias, or inaccurate, out-of-date, or missing information.
+
+-   Facilitate peer-support. We need to research best practices.
+
+### Information
+
+-   Maintain a database of organizations that provide services for or work with autistic adults, including what services they provide, to whom, how to access these services, and pertinent contact information.
+
+-   Maintain a database of medical providers for autistic adults with rich information on their training, experience, specialties, and insurance coverage.
+
+-   Maintain a database of miscellaneous community-based entities and programs for autistic adults, such as meetups, businesses, clubs, etc.
+
+-   Host these databases on our website through a portal that employs the ultimate in user-friendly and intuitive interfaces. Also, provide an application programming interface (API) for information workers.
+
+-   Create web pages, pamphlets, documents, guides, etc., written in multiple languages and at multiple levels of detail for a neurodiverse audience with information on local issues affecting autistic adults. Examples:
+
+    -   How to decide if you want/need a diagnosis
+
+    -   How to get a diagnosis
+
+    -   What do public entities like OHP, I/DD, and Vocational Rehab do? What should you expect? How to work with them?
+
+    -   Tips for working with medical and mental health providers. For example, advice on how to approach them as an autistic individual.
+
+    -   Information to give medical and mental health providers. Most are unaware of differences in our sensory systems, frequency of co-occurring physical conditions, and how to navigate different communication styles.
+
+    -   Forms and checklists
+
+    -   I just got diagnosed. What do I do now (Oregon-specific)?
+
+-   Collect any data we can get our hands on connected to autism in Oregon and look for ways to extract useful information from them.
+
+-   Perform data analysis and reporting for other organizations or entities on a contract basis.
+
+-   Participate in research studies as subject matter experts and analysts.
+
+-   Maintain and update the *autism-facts.org* website with the most current factual information about autism based on current research and thought.
+
+-   Regularly circle back to *everything* in our database to ensure our information is accurate and current, and timestamp every update. That way, users will know whether the information is up-to-date.
+
+As you can see, we do not intend to be an advocacy organization or a service organization. Instead we are going to support advocacy, self-advocacy, services, and policy related to autistic adults by providing the community the insights and information assets these other efforts need.
+
+## Future plans
+
+We are also working on a model that will allow us to apply for small research grants and accept contracts for analysis and reporting. Dr. Balter has extensive data science experience, including academic publications, and has the support and interest of other scientists and analysts in the area. The Oregon Research Institute (ORI) has a partner called ORI Community Evaluation Service (ORICES) that is able to leverage resources (such as research review board approval) at ORI to work on smaller projects. We are exploring how to use that model or something similar.
+
+## Growth and Development
+
+Three phases: seed, sprout, grow
+
+Report to umbrella and funders.
+
+## **Seed**
+
+| **Res ponsibility**      | **FTE**  | **Description**                                                                                                                                                                                       |
+|:------------|:------------|:---------------------------------------------|
+| Organizing and Directing | 0.75     | Implement business systems--payrol, formal job descriptions, insurance, etc. Hold regular meetings with select partner organizations and individuals. Solicit and apply for funding for Sprout phase. |
+| Coworking space manager  | 0.25     | Research how coworking spaces run. Create a budget and game plan for initial set-up. Begin planning marketing and promotion.                                                                          |
+| Research support         | 0.25     | Collect and organize information. Writing.                                                                                                                                                            |
+| Web Development          | 0.25     | Design and build website.                                                                                                                                                                             |
+| **Total**                | **1.50** |                                                                                                                                                                                                       |
+
+## 
+
+## **Sprout**
+
+| **R esponsibility**      | **FTE**  | **Description**                                                                                                                                                                                                  |
+|:------------|:------------|:---------------------------------------------|
+| Organizing and Directing | 0.75     | Complete current information product projects. Investigate access gaps. Locate resources. Continue building relationships. Oversee and participate in research on community resources and funding opportunities. |
+| Data engineering         | 0.50     | Create databases. Research portal design.                                                                                                                                                                        |
+| Coworking space manager  | 0.50     | Research how coworking spaces run. Solicit community feedback. Run trails.                                                                                                                                       |
+| Research support         | 0.50     | Collect and organize information. Writing.                                                                                                                                                                       |
+| Web Development          | 0.50     | Design and build website.                                                                                                                                                                                        |
+| **Total**                | **2.75** |                                                                                                                                                                                                                  |
+
+### **Grow**
+
+### **Staffing**
+
+| **Res ponsibility**       | **FTE**  | **Description**                                                                                                                                                                       |
+|:------------|:------------|:---------------------------------------------|
+| Organizing and Directing  | 1.00     | Seek out partners and funding opportunities. Work with stakeholders to define contract requirements. Direct grant writing. Meet regularly with partner organizations and individuals. |
+| Data engineering          | 0.30     | Maintain databases and portal. Assist with analysis and reporting.                                                                                                                    |
+| Jr. Data management       | 0.20     | Collect data. Enter data. Basic reporting.                                                                                                                                            |
+| Research and analysis     | 0.50     | Perform analysis and generate reports. Lead grant-writing efforts. Be responsible for obtaining necessary approvals, meeting all grant requirements, and submitting on time.          |
+| Research support (Jr.)    | 0.50     | Locate resources. Collect and organize information. Conduct surveys.                                                                                                                  |
+| Web Development           | 0.25     | Maintain website.                                                                                                                                                                     |
+| Coworking space manager   | 1.00     | Determine best practices. Maintain the physical space. Set and enforce policies.                                                                                                      |
+| Coworking space attendant | 0.50     | Oversee operation.                                                                                                                                                                    |
+| **Total**                 | **4.25** |                                                                                                                                                                                       |
+
+# 
