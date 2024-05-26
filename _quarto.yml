@@ -16,14 +16,12 @@ book:
     - autism_all_grown_up.qmd
     - funding.qmd
     - budget.qmd
-    - references.qmd
   appendices:
     - glossary.qmd
     - representitive_salaries.qmd
     - potential_funders.qmd
     - neurodiversity_and_neurodivergence.qmd
 
-bibliography: references.bib
 
 format:
   html:

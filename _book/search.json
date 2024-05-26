@@ -1,5 +1,15 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "quarto_version",
+    "section": "",
+    "text": "https://davidgohel.github.io/flextable/ https://github.com/dmurdoch/tables https://dmurdoch.github.io/tables/reference/index.html https://github.com/hughjonesd/huxtable https://hughjonesd.github.io/huxtable/huxtable.html https://davidgohel.github.io/flextable/ https://github.com/davidgohel/flextable/ https://cran.r-project.org/web/packages/pixiedust/vignettes/pixiedust.html https://github.com/nutterb/pixiedust https://www.pipinghotdata.com/posts/2022-01-24-report-ready-pdf-tables-with-rmarkdown-knitr-kableextra-and-latex/ https://www.danieldsjoberg.com/gtsummary/index.html https://gt.rstudio.com/reference/index.html",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>index.html</span>"
+    ]
+  },
+  {
     "objectID": "front_page.html",
     "href": "front_page.html",
     "title": "2  Mission",
@@ -409,16 +419,6 @@
     "crumbs": [
       "Appendices",
       "<span class='chapter-number'>D</span>  <span class='chapter-title'>Appendix 4: Neurodiversity and Neurodivergence</span>"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "AAGU Proposal–May 2024",
-    "section": "",
-    "text": "https://davidgohel.github.io/flextable/ https://github.com/dmurdoch/tables https://dmurdoch.github.io/tables/reference/index.html https://github.com/hughjonesd/huxtable https://hughjonesd.github.io/huxtable/huxtable.html https://davidgohel.github.io/flextable/ https://github.com/davidgohel/flextable/ https://cran.r-project.org/web/packages/pixiedust/vignettes/pixiedust.html https://github.com/nutterb/pixiedust https://www.pipinghotdata.com/posts/2022-01-24-report-ready-pdf-tables-with-rmarkdown-knitr-kableextra-and-latex/ https://www.danieldsjoberg.com/gtsummary/index.html https://gt.rstudio.com/reference/index.html",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>index.html</span>"
     ]
   }
 ]
